@@ -14,7 +14,7 @@ export function Footer({ language }: FooterProps) {
             {/* Links */}
             <div className="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm text-muted-foreground/80">
               <a 
-                href="https://github.com/HachiroSan/school-absensce-letter-generator/issues/new" 
+                href="https://github.com/Justryuz/school-absensce-letter-generator/issues/new" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors inline-flex items-center gap-2"
