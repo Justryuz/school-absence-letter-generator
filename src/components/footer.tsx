@@ -87,7 +87,7 @@ export function Footer({ language }: FooterProps) {
                   </>
                 )}
                 <a
-                  href="mailto:farhad@farhad.my"
+                  href="mailto:fahmifisal@gmail.com"
                   className="text-muted-foreground/80 hover:text-primary transition-colors"
                 >
                   farhad@farhad.my
