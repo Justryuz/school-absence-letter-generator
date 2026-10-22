@@ -22,7 +22,7 @@ export function Footer({ language }: FooterProps) {
                 <span>🐛</span> {t("reportBug", language)}
               </a>
               <a
-                href="https://ko-fi.com/Q5Q618KH8E"
+                href="https://ko-fi.com/justryuz"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -33,7 +33,7 @@ export function Footer({ language }: FooterProps) {
                 />
               </a>
               <a 
-                href="https://github.com/HachiroSan/school-absensce-letter-generator" 
+                href="https://github.com/Justryuz/school-absensce-letter-generator" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -63,7 +63,7 @@ export function Footer({ language }: FooterProps) {
                   </svg>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/farhad-khaharruddin/"
+                  href="https://www.linkedin.com/in/justryuz/"
                   target="_blank"
                   rel="noreferrer"
                   className="text-muted-foreground/60 hover:text-primary transition-colors"
